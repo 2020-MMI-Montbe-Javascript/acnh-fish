@@ -1,0 +1,104 @@
+{
+    "fish": [
+        {
+            "name": "bouvière",
+            "location": "River",
+            "rarity": "Common",
+            "size": "Small",
+            "price": 900,
+            "image": "http://acnhapi.com/images/fish/1",
+            "icon": "http://acnhapi.com/icons/fish/1",
+            "catch-phrase": "I caught a bitterling! It's mad at me, but only a little."
+        },
+        {
+            "name": "chevaine",
+            "location": "River",
+            "rarity": "Common",
+            "size": "Small",
+            "price": 200,
+            "image": "http://acnhapi.com/images/fish/2",
+            "icon": "http://acnhapi.com/icons/fish/2",
+            "catch-phrase": "I caught a pale chub! That name seems a bit judgy..."
+        },
+        {
+            "name": "carassin",
+            "location": "River",
+            "rarity": "Common",
+            "size": "Small",
+            "price": 160,
+            "image": "http://acnhapi.com/images/fish/3",
+            "icon": "http://acnhapi.com/icons/fish/3",
+            "catch-phrase": "I caught a crucian carp! My skills are sharp!"
+        },
+        {
+            "name": "vandoise",
+            "location": "River",
+            "rarity": "Common",
+            "size": "Medium",
+            "price": 240,
+            "image": "http://acnhapi.com/images/fish/4",
+            "icon": "http://acnhapi.com/icons/fish/4",
+            "catch-phrase": "I caught a dace! Hope I have some space!"
+        },
+        {
+            "name": "carpe",
+            "location": "Pond",
+            "rarity": "Common",
+            "size": "Large",
+            "price": 300,
+            "image": "http://acnhapi.com/images/fish/5",
+            "icon": "http://acnhapi.com/icons/fish/5",
+            "catch-phrase": "I caught a carp! If I catch another they can carpool!"
+        },
+        {
+            "name": "carpe koï",
+            "location": "Pond",
+            "rarity": "Uncommon",
+            "size": "Large",
+            "price": 4000,
+            "image": "http://acnhapi.com/images/fish/6",
+            "icon": "http://acnhapi.com/icons/fish/6",
+            "catch-phrase": "I caught a koi! I don't know why it's so shy... or such a bad speller..."
+        },
+        {
+            "name": "poisson rouge",
+            "location": "Pond",
+            "rarity": "Common",
+            "size": "Small",
+            "price": 1300,
+            "image": "http://acnhapi.com/images/fish/7",
+            "icon": "http://acnhapi.com/icons/fish/7",
+            "catch-phrase": "I caught a goldfish! It's worth its weight in fish!"
+        },
+        {
+            "name": "cyprin doré",
+            "location": "Pond",
+            "rarity": "Common",
+            "size": "Small",
+            "price": 1300,
+            "image": "http://acnhapi.com/images/fish/8",
+            "icon": "http://acnhapi.com/icons/fish/8",
+            "catch-phrase": "I got a pop-eyed goldfish! It looks so...surprised!"
+        },
+        {
+            "name": "ranchu",
+            "location": "Pond",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "price": 4500,
+            "image": "http://acnhapi.com/images/fish/9",
+            "icon": "http://acnhapi.com/icons/fish/9",
+            "catch-phrase": "I caught a ranchu goldfish! But I prefer balsamicu goldfish!"
+        },
+        {
+            "name": "fondule barré",
+            "location": "Pond",
+            "rarity": "Common",
+            "size": "Small",
+            "price": 300,
+            "image": "http://acnhapi.com/images/fish/10",
+            "icon": "http://acnhapi.com/icons/fish/10",
+            "catch-phrase": "I caught a killifish! The streams are safe again."
+        }
+    ]
+}
